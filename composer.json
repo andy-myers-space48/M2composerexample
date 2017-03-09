@@ -1,0 +1,13 @@
+{
+    "name": "andy-myers-space48/M2composerexample",
+    "description": "Test module for Magento 2",
+    "type": "magento2-module",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "AndyMyersSpace48/M2composerexample"
+            ]
+        ]
+    }
+}
